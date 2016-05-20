@@ -113,7 +113,7 @@ switch (playerSide) do
 	};
 	case civilian:
 	{
-		life_atmcash = 70000; //Starting Bank Money
+		life_atmcash = 65000; //Starting Bank Money
 		life_paycheck = 1500; //Paycheck Amount
 	};
 
